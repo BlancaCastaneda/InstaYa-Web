@@ -1,1 +1,1 @@
-# InstaYa-Web
+# insta-ya-web-main
